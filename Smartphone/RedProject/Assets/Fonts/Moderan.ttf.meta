@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a2f5a3041b66e31409951ddbfee60e3f
+timeCreated: 1516295693
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Moderan
+  fontNames:
+  - Moderan
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

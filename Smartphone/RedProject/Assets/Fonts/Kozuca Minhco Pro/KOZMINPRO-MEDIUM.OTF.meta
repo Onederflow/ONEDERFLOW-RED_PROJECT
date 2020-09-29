@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 80d471dc55330824aa9b4e84312e6cd2
+timeCreated: 1500654941
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kozuka Mincho Pro
+  fontNames:
+  - Kozuka Mincho Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7d0d772c44a281a4caee3e5c5e15abba, type: 3}
+  - {fileID: 12800000, guid: 2a2deecf46521b2498950a4a22f09fcc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
